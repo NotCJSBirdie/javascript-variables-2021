@@ -1,0 +1,45 @@
+/* This is an external CSS file */
+
+h1 {
+  text-align: center;
+}
+
+#Hello {
+  margin: 0;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+
+  background-color: blueviolet;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+}
+
+body {
+  background-color: goldenrod;
+  margin: 0;
+}
+
+p {
+  text-align: center;
+}
+
+#Hello1 {
+  text-align: center;
+}
+
+#Hello2 {
+  margin: 0;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: crimson;
+  text-align: center;
+}
+
+#Hello3 {
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: thistle;
+}
